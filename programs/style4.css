@@ -1,0 +1,14 @@
+.pdf-container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 56.25%; /* Aspect ratio for responsive design (adjust as needed) */
+  }
+  .pdf-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
