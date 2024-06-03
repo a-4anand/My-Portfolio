@@ -1,0 +1,92 @@
+
+@media (max-width: 768px) {
+    
+  }
+  @media (max-width: 768px) {
+   
+  }
+  @media screen and (max-width: 600px) {
+    /* Your mobile-specific styles here */
+}
+
+/* CSS for larger devices like laptops */
+@media screen and (min-width: 601px) {
+    /* Your laptop-specific styles here */
+}
+*{
+    margin: 0;
+    padding: 0%;
+}
+body {
+    margin: 0; 
+    padding: 0;
+    overflow-x: hidden;
+
+    background-image: url("./assets/fabio-oyXis2kALVg-unsplash.jpg"); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+}
+h1{
+    background-color: rgba(255, 255, 255, 0.7); 
+    padding: 20px; 
+    border-radius: 10px; 
+    max-width: 80%;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
+    text-align: justify; 
+    
+}
+h1{
+    text-align: center;
+    margin-top: 10px;
+}
+.clc{
+    
+    height: 400px;
+    width: 300px;
+    border-radius: 10px;
+    border-color: aliceblue;
+    color: aliceblue;
+    align-items: center;
+}
+.card{
+    margin-top: 100px;
+    margin-left: 250px;
+    color: aliceblue;
+    position: relative;
+    font-family: sans-serif;}
+    
+
+p{
+    margin-top: 10px;
+    margin-left: 10px;
+    background-position: center;
+    border-radius: 10px;
+    padding: 10px;
+    align-self: center;
+    background-color: white;
+    color: black;
+    position: absolute;
+    font-family: sans-serif;
+}
+.card2{
+    margin-top: -407px;
+    margin-left: 750px;
+    color: aliceblue;
+    position: relative;
+    font-family: sans-serif;}
+
+    p2{
+        margin-top: 10px;
+        margin-left: 10px;
+        background-position: center;
+        border-radius: 15px;
+        padding: 10px;
+        align-self: center;
+        background-color: white;
+        color: black;
+        position: absolute;
+        font-family: sans-serif;
+    }
+    
